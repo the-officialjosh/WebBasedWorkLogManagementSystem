@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebBasedWorkLogManagementSystem._default">
+    <Position X="5.25" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEwQAAAAAAAAAAIAAAAAAUAIIAQAAIAgAAYAAAICAAA=</HashCode>
+      <FileName>default.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebBasedWorkLogManagementSystem.Employee">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAEABIAAQAAAAAAAAIAIAAAA=</HashCode>
+      <FileName>Employee\Employee.Master.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebBasedWorkLogManagementSystem.Admin">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAEABIAAQAAAAAAAAIAIAAAA=</HashCode>
+      <FileName>Admin\Admin.Master.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebBasedWorkLogManagementSystem.dashboard">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIQAACAYYGEBARAAAiEAACARAABLIACIIsCkACoCAgU=</HashCode>
+      <FileName>Employee\dashboard.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebBasedWorkLogManagementSystem.test">
+    <Position X="12.75" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAgACQAIAAAAAgAAAAAAAIAAAA=</HashCode>
+      <FileName>test.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
